@@ -1,0 +1,38 @@
+﻿  Admin.cpp
+C:\Users\pc\source\repos\phase 1 my\phase 1 my\Employee.h(15,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Admin.cpp')
+  
+C:\Users\pc\source\repos\phase 1 my\phase 1 my\Employee.h(23,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Admin.cpp')
+  
+  Client.cpp
+C:\Users\pc\source\repos\phase 1 my\phase 1 my\Client.h(14,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Client.cpp')
+  
+C:\Users\pc\source\repos\phase 1 my\phase 1 my\Client.h(22,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Client.cpp')
+  
+  Employee.cpp
+C:\Users\pc\source\repos\phase 1 my\phase 1 my\Employee.h(15,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Employee.cpp')
+  
+C:\Users\pc\source\repos\phase 1 my\phase 1 my\Employee.h(23,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Employee.cpp')
+  
+  Person.cpp
+  phase 1 my.cpp
+C:\Users\pc\source\repos\phase 1 my\phase 1 my\Client.h(14,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'phase%201%20my.cpp')
+  
+C:\Users\pc\source\repos\phase 1 my\phase 1 my\Client.h(22,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'phase%201%20my.cpp')
+  
+C:\Users\pc\source\repos\phase 1 my\phase 1 my\Employee.h(15,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'phase%201%20my.cpp')
+  
+C:\Users\pc\source\repos\phase 1 my\phase 1 my\Employee.h(23,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'phase%201%20my.cpp')
+  
+  Validator.cpp
+  Generating Code...
+  phase 1 my.vcxproj -> C:\Users\pc\source\repos\phase 1 my\x64\Debug\phase 1 my.exe
